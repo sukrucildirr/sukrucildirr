@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**sukrucildirr/sukrucildirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-06-29T10:57:19.169Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0xb346f303ff1ad2810564f30add4d2361ce5ef769"
+    },
+    {
+      "chain": "solana",
+      "address": "6pvZ7Fg7vUZAqTZ23wdR4kN5LJ16f7ZzjPGXBcfLs82J"
+    }
+  ]
+}
+WALLET-LINKING-END -->
